@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("dev添加");
         System.out.println("master在第10行");
         System.out.println("dev在第10行");
+        System.out.println("测试推送本地库到远程库");
     }
 }
