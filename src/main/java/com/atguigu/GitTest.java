@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("第一次更新");
         System.out.println("第二次更新");
         System.out.println("dev添加");
+        System.out.println("dev在第10行");
     }
 }
